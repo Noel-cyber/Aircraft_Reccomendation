@@ -27,9 +27,10 @@ The dataset contains 88,889 aviation accidents with 31 attributes, including:
 - Converted date fields to proper datetime format.
 - Extracted accident severity (Fatal vs. Non-Fatal incidents).
 ### Three visualizations (the same visualizations presented in the slides and notebook)
-![Aircraft Makes and Models Involved in Accid![Fatality Rate by Aircraft Make](https://github.com/user-attachments/assets/a120f5bf-23c7-436e-85d8-5614a833940e)
-ents](https://github.com/user-attachments/assets/2c254d74-d7ec-4d14-a72e-27f60f0971a9)
-![Aircraft vs Weather](https://github.com/user-attachments/assets/b6f143ab-846e-4a67-bbe4-9959bf04cc2e)
+![Fatality Rate by Aircraft Make](https://github.com/user-attachments/assets/e9351736-81ff-4c04-92b9-d12b0bbf24d1)
+![Aircraft Reliability](https://github.com/user-attachments/assets/daf7ded3-0cb0-4a58-8db4-af232c602e6e)
+![Aircraft Performance Under Different Weather Conditions](https://github.com/user-attachments/assets/eb410e1b-31b1-4ecc-abb4-605c7774917f)
+
 
 ### Tableau Dashboard 
 https://public.tableau.com/app/profile/noel.seda/viz/InvestigationofAviationAccidents/InvestigationofAviationAccidents
