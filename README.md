@@ -12,21 +12,24 @@ As part of the company’s expansion into the aviation industry, this report aim
 2. What are the primary causes of aviation accidents?
 3. During which phases of flight do most accidents occur?
 4. How has aviation safety improved over time?
-## Source of data
+## Data Understanding and Analysis
+### Source of data
 The dataset used for this analysis is sourced from Kaggle:
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
-## Description of data
+### Description of data
 The dataset contains 88,889 aviation accidents with 31 attributes, including:
 1. Aircraft Details: Make, Model, Number of Engines, Engine Type.
 2. Accident Severity: Fatal and serious injuries.
 3. Operational Factors: Flight purpose, weather conditions, flight phase.
 4. Date & Location: Country, airport name, event date.
-## Data Understanding and Analysis
+### Analysis
 - Removed redundant or highly missing columns (e.g., Latitude, Longitude, Schedule).
 - Standardized categorical values (e.g., Weather Conditions, Aircraft Categories).
 - Converted date fields to proper datetime format.
 - Extracted accident severity (Fatal vs. Non-Fatal incidents).
 ## Three visualizations (the same visualizations presented in the slides and notebook)
+![image](https://github.com/user-attachments/assets/a0d494d2-5198-4fb7-87b7-ef7d13d42d0a)
+
 ## Conclusion
 
 ## Summary of conclusions including three relevant findings
